@@ -4,7 +4,7 @@ Airflow + Docker
 # Apache Airflow Docker Compose
 Docker Composer utilizado para criação do Apache Airflow Localmente.
 
-# Pré Requisitos
+## Pré Requisitos
 - Sistema Operacional Linux ou MacOs
 - docker compose    - https://docs.docker.com/compose/install/
 
