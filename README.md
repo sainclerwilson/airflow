@@ -10,7 +10,7 @@ Docker Composer utilizado para criação do Apache Airflow Localmente.
 
 ## Setup
 ### baixar o conteudo do git
-git clone https://github.com/sainclerwilson/airflow.git
+-- git clone https://github.com/sainclerwilson/airflow.git
 
 ## criar os diretórios necessários para o airflow
 mkdir -p /opt/airflow/dags /opt/airflow/logs /opt/airflow/plugins /opt/airflow/data
